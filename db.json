@@ -1,7 +1,7 @@
 {
-  "shopUsers": [
+  "users": [
     {
-      "userId": "Shop1",
+      "id": "Shop1",
       "shopOwner": "sunl",
       "shopAddress": "Address1",
       "shopPhone": "123456",
